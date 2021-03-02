@@ -1,34 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ <a href="https://github.com/Hildebrando-Viana-Matos/nlw_moveit">
+    <img align="center" src="https://github.com/Hildebrando-Viana-Matos/nlw_moveit/blob/main/public/github/move.it-readme.png" alt="banner move.it">
+ </a>
+ 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<hr>
+
+## About The Project
+<p>WWelcome to the website that I wanted to make come true. This is an application that I will use the most when I need to focus on my programming studies. Move.it was made at a Rocketseat event called Next Level Week and aims to apply the Pomodoro technique and still perform physical exercises</p>
+
+### Built With
+I used some web technologies in order to train:mortar_board::
+* HTML5
+* CSS3
+* ReactJs
+* TypeScript
+* [Next.js](https://nextjs.org/)
 
 ## Getting Started
+It is so simple to install and run this project on your local machine, but you can just go to this [link](https://moveit-next-wheat-zeta.vercel.app/index)
+### Prerequisites
+You need the Yarn installed in your local machine
+  ```sh
+  npm install --global yarn
+  ```
+If you don1t have npm in your local machine, install now:
+  ```sh
+  npm install npm@latest -g
+  ```
+### Installation
+1. Clone the repository
+   ```sh
+   git clone git@github.com:Hildebrando-Viana-Matos/nlw_moveit.git
+   ```
+2. Run the development server:
+  ```bash
+  yarn dev
+  ```
+3. And now, you can go to your browser to go to localhost:3000
 
-First, run the development server:
+## Usage
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Every 25 minutes of focus on your tasks and studies, you will receive a physical exercise to do in your interval of 5 minutes
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+You want contribute of this object????:scream: GREAT!!!!:heart_eyes::heart_eyes::heart_eyes:. Follow the instructions below
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Contact
 
-## Learn More
+Hildebrando Viana Matos - [@hildovm](https://www.instagram.com/hildovm/) - hildocontato@gmail.com
 
-To learn more about Next.js, take a look at the following resources:
+Project Link: [https://moveit-next-wheat-zeta.vercel.app/index](https://moveit-next-wheat-zeta.vercel.app/index)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
