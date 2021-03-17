@@ -53,11 +53,15 @@ If you don1t have npm in your local machine, install now:
    ```sh
    git clone git@github.com:Hildebrando-Viana-Matos/nlw_moveit.git
    ```
-2. Run the development server:
+2. Install the dependencies
+  ```bash
+  yarn
+  ```
+3. Run the development server:
   ```bash
   yarn dev
   ```
-3. And now, you can go to your browser to go to localhost:3000
+4. And now, you can go to your browser to go to localhost
 
 ## Usage
 
