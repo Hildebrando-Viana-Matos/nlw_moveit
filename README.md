@@ -50,9 +50,9 @@ If you don1t have npm in your local machine, install now:
   ```
 ### Installation
 1. Clone the repository
-   ```sh
-   git clone git@github.com:Hildebrando-Viana-Matos/nlw_moveit.git
-   ```
+  ```sh
+  git clone git@github.com:Hildebrando-Viana-Matos/nlw_moveit.git
+  ```
 2. Install the dependencies
   ```bash
   yarn
