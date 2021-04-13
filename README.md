@@ -27,7 +27,7 @@
 <hr>
 
 ## About The Project
-<p>WWelcome to the website that I wanted to make come true. This is an application that I will use the most when I need to focus on my programming studies. Move.it was made at a Rocketseat event called Next Level Week and aims to apply the Pomodoro technique and still perform physical exercises</p>
+<p>Welcome to the website that I wanted to make come true. This is an application that I will use the most when I need to focus on my programming studies. Move.it was made at a Rocketseat event called Next Level Week and aims to apply the Pomodoro technique and still perform physical exercises</p>
 
 ### Built With
 I used some web technologies in order to train:mortar_board::
